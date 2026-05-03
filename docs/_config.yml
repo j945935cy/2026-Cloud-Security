@@ -1,0 +1,11 @@
+title: 2026 資安大轉折
+description: AI 時代的網路防禦新規則
+theme: minima
+lang: zh-TW
+header_pages:
+	- index.md
+	- preview.md
+	- author.md
+	- buy.md
+	- references.md
+	- proposal-package.md
