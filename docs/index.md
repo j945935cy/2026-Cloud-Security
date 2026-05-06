@@ -11,9 +11,9 @@ title: 2026 資安大轉折
 			<p class="subtitle">當企業從 AI 輔助走向 AI 原生，安全不再只是防守成本，而是決定組織能否加速創新、維持信任與穿越風險的營運核心。</p>
 			<p class="blurb">這是一部寫給雲端架構師、資安團隊與技術決策者的趨勢書稿，從 AI 原生經濟、代理型攻擊、零信任 2.0、雲端原生防護、供應鏈安全、量子遷移到 AI 治理，系統化整理 2026 年最關鍵的攻防變局。</p>
 			<div class="hero-actions">
-				<a class="button-primary" href="./chapters/ch01.md">立即試閱</a>
-				<a class="button-secondary" href="./preview.md">書籍預覽</a>
-				<a class="button-secondary" href="./references.md">參考文獻</a>
+				<a class="button-primary" href="./chapters/ch01.html">立即試閱</a>
+				<a class="button-secondary" href="./preview.html">書籍預覽</a>
+				<a class="button-secondary" href="./references.html">參考文獻</a>
 			</div>
 			<div class="hero-metrics">
 				<div class="metric"><strong>13 章</strong><span>深入剖析 2026 資安版圖</span></div>
@@ -84,19 +84,19 @@ title: 2026 資安大轉折
 	<section class="section-card">
 		<h2>試閱章節</h2>
 		<ol class="chapter-list">
-			<li><a href="./chapters/ch01.md">第 1 章：2026，AI 經濟的新規則</a></li>
-			<li><a href="./chapters/ch02.md">第 2 章：防衛者之年：重奪主動權</a></li>
-			<li><a href="./chapters/ch03.md">第 3 章：自動化詐騙的崛起</a></li>
-			<li><a href="./chapters/ch04.md">第 4 章：操控 AI 的攻擊</a></li>
-			<li><a href="./chapters/ch05.md">第 5 章：地緣政治與新型網路犯罪</a></li>
-			<li><a href="./chapters/ch06.md">第 6 章：零信任 2.0</a></li>
-			<li><a href="./chapters/ch07.md">第 7 章：雲端原生安全的成熟度缺口</a></li>
-			<li><a href="./chapters/ch08.md">第 8 章：持續威脅暴露管理與韌性指標</a></li>
-			<li><a href="./chapters/ch09.md">第 9 章：量子加密與加密敏捷性</a></li>
-			<li><a href="./chapters/ch10.md">第 10 章：瀏覽器：企業的新作業系統與前門</a></li>
-			<li><a href="./chapters/ch11.md">第 11 章：供應鏈安全與軟體物料清單</a></li>
-			<li><a href="./chapters/ch12.md">第 12 章：AI 治理與法律責任</a></li>
-			<li><a href="./chapters/ch13.md">第 13 章：未來人才：學習地圖與專業認證</a></li>
+			<li><a href="./chapters/ch01.html">第 1 章：2026，AI 經濟的新規則</a></li>
+			<li><a href="./chapters/ch02.html">第 2 章：防衛者之年：重奪主動權</a></li>
+			<li><a href="./chapters/ch03.html">第 3 章：自動化詐騙的崛起</a></li>
+			<li><a href="./chapters/ch04.html">第 4 章：操控 AI 的攻擊</a></li>
+			<li><a href="./chapters/ch05.html">第 5 章：地緣政治與新型網路犯罪</a></li>
+			<li><a href="./chapters/ch06.html">第 6 章：零信任 2.0</a></li>
+			<li><a href="./chapters/ch07.html">第 7 章：雲端原生安全的成熟度缺口</a></li>
+			<li><a href="./chapters/ch08.html">第 8 章：持續威脅暴露管理與韌性指標</a></li>
+			<li><a href="./chapters/ch09.html">第 9 章：量子加密與加密敏捷性</a></li>
+			<li><a href="./chapters/ch10.html">第 10 章：瀏覽器：企業的新作業系統與前門</a></li>
+			<li><a href="./chapters/ch11.html">第 11 章：供應鏈安全與軟體物料清單</a></li>
+			<li><a href="./chapters/ch12.html">第 12 章：AI 治理與法律責任</a></li>
+			<li><a href="./chapters/ch13.html">第 13 章：未來人才：學習地圖與專業認證</a></li>
 		</ol>
 	</section>
 
@@ -122,11 +122,11 @@ title: 2026 資安大轉折
 	<section class="buyer-grid">
 		<article>
 			<h2>閱讀入口</h2>
-			<p><a href="./book.md">閱讀全書總覽</a></p>
-			<p><a href="./chapters/ch01.md">從第 1 章開始閱讀</a></p>
-			<p><a href="./preview.md">前往正式試閱頁</a></p>
-			<p><a href="./references.md">查看正式參考文獻</a></p>
-			<p><a href="./proposal-package.md">查看出版提案內容包</a></p>
+			<p><a href="./book.html">閱讀全書總覽</a></p>
+			<p><a href="./chapters/ch01.html">從第 1 章開始閱讀</a></p>
+			<p><a href="./preview.html">前往正式試閱頁</a></p>
+			<p><a href="./references.html">查看正式參考文獻</a></p>
+			<p><a href="./proposal-package.html">查看出版提案內容包</a></p>
 		</article>
 		<article>
 			<h2>購買區塊</h2>
@@ -142,10 +142,10 @@ title: 2026 資安大轉折
 		<h2>出版提案、作者頁、試閱頁與正式文獻頁已同步上線</h2>
 		<p>目前網站除了章節試閱外，已提供出版提案內容包、作者頁、購買頁與逐章正式參考文獻頁，方便後續對接出版社、媒體、內訓與 GitHub Pages 正式展示。</p>
 		<div class="proposal-links">
-			<a href="./proposal-package.md">出版提案內容包</a>
-			<a href="./author.md">作者頁</a>
-			<a href="./buy.md">購買頁</a>
-			<a href="./references.md">正式參考文獻</a>
+			<a href="./proposal-package.html">出版提案內容包</a>
+			<a href="./author.html">作者頁</a>
+			<a href="./buy.html">購買頁</a>
+			<a href="./references.html">正式參考文獻</a>
 			<a href="./assets/images/cover-2026-cloud-security.svg">封面視覺檔</a>
 		</div>
 	</section>
