@@ -1,23 +1,22 @@
 # 《2026 資安大轉折：AI 時代的網路防禦新規則》
 
-> 一部面向 AI 原生時代的資安趨勢書稿，聚焦雲端原生防禦、零信任、AI 攻擊面、供應鏈風險與治理責任。
+> 一部面向 AI 原生時代的資安趨勢著作，聚焦雲端原生防禦、零信任、AI 攻擊面、供應鏈風險與治理責任。
 
 ![GitHub Pages Ready](https://img.shields.io/badge/GitHub%20Pages-ready-0A7B83)
 ![Markdown](https://img.shields.io/badge/Format-Markdown-1F6FEB)
 ![Language](https://img.shields.io/badge/Language-zh--TW-B35C00)
-![Status](https://img.shields.io/badge/Status-draft%20preview-6B7280)
+![Status](https://img.shields.io/badge/Status-release%20preview-6B7280)
 
 ## 目錄
 
 - [封面區塊](#封面區塊)
-- [專案簡介](#專案簡介)
-- [目前內容](#目前內容)
+- [專案說明](#專案說明)
+- [內容概覽](#內容概覽)
 - [章節導覽](#章節導覽)
 - [線上閱讀結構](#線上閱讀結構)
 - [補充資源](#補充資源)
 - [部署說明](#部署說明)
 - [網站結構](#網站結構)
-- [後續可擴充項目](#後續可擴充項目)
 
 ## 封面區塊
 
@@ -36,23 +35,21 @@
 - 零信任 2.0、CTEM、Runtime 防護與 DevSecOps
 - PQC、瀏覽器安全、SBOM、AI 治理與人才路徑
 
-## 專案簡介
+## 專案說明
 
-這個 Repository 將原始書稿素材整理為適合 GitHub 與 GitHub Pages 發佈的 Markdown 網站。內容目前已包含書籍介紹頁、全書總覽、13 章獨立章節頁、出版提案包、作者頁、試閱頁、購買頁與正式參考文獻頁，適合直接作為公開試閱站或出版提案網站。
+本 Repository 為《2026 資安大轉折》的官方預覽網站。內容包含書籍介紹頁、全書總覽、13 章精選內容、出版提案包、作者介紹、試閱頁、購買預約與正式參考文獻，採用 GitHub Pages 進行發佈。
 
-## 目前內容
+## 內容概覽
 
-- 原始素材：`doc1`
 - 網站首頁：`docs/index.md`
 - 全書總覽：`docs/book.md`
-- 章節頁面：`docs/chapters/ch01.md` 到 `docs/chapters/ch13.md`
-- 作者頁：`docs/author.md`
-- 試閱頁：`docs/preview.md`
-- 購買頁：`docs/buy.md`
-- 正式參考文獻：`docs/references.md`
-- 出版提案包：`docs/proposal-package.md`
-- 外部引用模板：`docs/external-references-template.md`
-- 封面視覺檔：`docs/assets/images/cover-2026-cloud-security.svg`
+- 章節試閱：`docs/chapters/ch01.md` 到 `docs/chapters/ch13.md`
+- 作者簡介：`docs/author.md`
+- 試閱入口：`docs/preview.md`
+- 購買資訊：`docs/buy.md`
+- 參考文獻：`docs/references.md`
+- 出版提案：`docs/proposal-package.md`
+- 封面視覺：`docs/assets/images/cover-2026-cloud-security.svg`
 
 ## 章節導覽
 

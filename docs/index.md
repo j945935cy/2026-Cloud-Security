@@ -17,7 +17,7 @@ title: 2026 資安大轉折
 			</div>
 			<div class="hero-metrics">
 				<div class="metric"><strong>13 章</strong><span>深入剖析 2026 資安版圖</span></div>
-				<div class="metric"><strong>5 大篇章</strong><span>從 AI 威脅、架構治理到人才培育完整串接</span></div>
+				<div class="metric"><strong>5 大篇章</strong><span>從 AI 威脅、架構治理到人才培育完整銜接</span></div>
 				<div class="metric"><strong>2026</strong><span>聚焦 AI 原生時代的規則重寫</span></div>
 			</div>
 		</div>
