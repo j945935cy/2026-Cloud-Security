@@ -2,7 +2,7 @@ import http.server
 import socketserver
 import os
 
-PORT = 5500
+PORT = 8080
 DIRECTORY = "docs"
 
 class NoCacheHTTPRequestHandler(http.server.SimpleHTTPRequestHandler):

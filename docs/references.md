@@ -7,8 +7,6 @@ title: 正式參考文獻
 
 本頁整理各章目前可直接使用的正式書末參考文獻條目。
 
-格式原則：機構作者。年份。書名或報告名。出版者。以 Markdown 連結保留官方來源入口，方便後續轉為正式出版版的頁尾註記或書末書目。
-
 ## 第 1 章
 
 - National Institute of Standards and Technology. (2023). [Artificial Intelligence Risk Management Framework (AI RMF 1.0)](https://doi.org/10.6028/NIST.AI.100-1). U.S. Department of Commerce.
@@ -102,6 +100,4 @@ title: 正式參考文獻
 
 ## 導覽
 
-- [返回首頁](./index.md)
-- [返回試閱頁](./preview.md)
-- [查看出版提案內容包](./proposal-package.md)
+- [返回首頁](./home.md)

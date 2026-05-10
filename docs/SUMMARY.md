@@ -1,11 +1,9 @@
 # Summary
 
-* [首頁](index.md)
+* [首頁](home.md)
 * [書籍內容](book.md)
-* [試閱頁](preview.md)
+
 * [作者頁](author.md)
-* [購買頁](buy.md)
-* [出版提案內容包](proposal-package.md)
 * [參考文獻](references.md)
 
 ## 章節試閱
