@@ -89,13 +89,6 @@ title: 2026 資安大轉折
 <li><a href="./chapters/ch04.html">第 4 章：操控 AI 的攻擊</a></li>
 <li><a href="./chapters/ch05.html">第 5 章：地緣政治與新型網路犯罪</a></li>
 <li><a href="./chapters/ch06.html">第 6 章：零信任 2.0</a></li>
-<li><a href="./chapters/ch07.html">第 7 章：雲端原生安全的成熟度缺口</a></li>
-<li><a href="./chapters/ch08.html">第 8 章：持續威脅暴露管理與韌性指標</a></li>
-<li><a href="./chapters/ch09.html">第 9 章：量子加密與加密敏捷性</a></li>
-<li><a href="./chapters/ch10.html">第 10 章：瀏覽器：企業的新作業系統與前門</a></li>
-<li><a href="./chapters/ch11.html">第 11 章：供應鏈安全與軟體物料清單</a></li>
-<li><a href="./chapters/ch12.html">第 12 章：AI 治理與法律責任</a></li>
-<li><a href="./chapters/ch13.html">第 13 章：未來人才：學習地圖與專業認證</a></li>
 </ol>
 </section>
 

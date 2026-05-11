@@ -33,13 +33,6 @@ title: 書籍內容
 - [第 4 章：操控 AI 的攻擊](./chapters/ch04.md)
 - [第 5 章：地緣政治與新型網路犯罪](./chapters/ch05.md)
 - [第 6 章：零信任 2.0](./chapters/ch06.md)
-- [第 7 章：雲端原生安全的成熟度缺口](./chapters/ch07.md)
-- [第 8 章：持續威脅暴露管理與韌性指標](./chapters/ch08.md)
-- [第 9 章：量子加密與加密敏捷性](./chapters/ch09.md)
-- [第 10 章：瀏覽器：企業的新作業系統與前門](./chapters/ch10.md)
-- [第 11 章：供應鏈安全與軟體物料清單](./chapters/ch11.md)
-- [第 12 章：AI 治理與法律責任](./chapters/ch12.md)
-- [第 13 章：未來人才：學習地圖與專業認證](./chapters/ch13.md)
 
 ## 章節架構
 
@@ -130,5 +123,5 @@ title: 書籍內容
 ## 版權與聯絡資訊
 
 1. 本內容受著作權保護，未經書面許可請勿將完整章節用於商業用途。
-2. 完整出版資訊請參考 [購買資訊頁面](./buy.md)。
+2. 完整電子書請參考 [Google Books 購書頁面](https://books.google.com.tw/books/about?id=yj3YEQAAQBAJ&redir_esc=y)。
 3. 如有企業採購、演講邀約或媒體合作需求，請參考 [作者介紹頁面](./author.md)。

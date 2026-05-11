@@ -106,6 +106,19 @@ document.addEventListener('DOMContentLoaded', () => {
             fetchPath = 'home.md';
         }
 
+        const chapterMatch = fetchPath.match(/^chapters\/ch(\d{2})\.md$/);
+        if (chapterMatch && Number(chapterMatch[1]) > 6) {
+            contentDiv.innerHTML = `
+                <div class="section-card" style="text-align:center">
+                    <h2>完整內容請至 Google Books 購買</h2>
+                    <p>本網站開放第 1 章至第 6 章試閱。第 7 章至第 13 章收錄於完整電子書。</p>
+                    <a href="https://books.google.com.tw/books/about?id=yj3YEQAAQBAJ&redir_esc=y" class="button-primary" style="margin-top:20px;display:inline-block" target="_blank" rel="noopener noreferrer">前往 Google Books 購買</a>
+                </div>`;
+            contentDiv.classList.add('fade-in');
+            window.scrollTo(0, 0);
+            return;
+        }
+
         contentDiv.classList.remove('fade-in');
         // Force reflow
         void contentDiv.offsetWidth;

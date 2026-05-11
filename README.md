@@ -37,16 +37,16 @@
 
 ## 專案說明
 
-本 Repository 為《2026 資安大轉折》的官方預覽網站。內容包含書籍介紹頁、全書總覽、13 章精選內容、出版提案包、作者介紹、試閱頁、購買預約與正式參考文獻，採用 GitHub Pages 進行發佈。
+本 Repository 為《2026 資安大轉折》的官方預覽網站。內容包含書籍介紹頁、全書總覽、前 6 章試閱內容、作者介紹與正式參考文獻，採用 GitHub Pages 進行發佈。
 
 ## 內容概覽
 
 - 網站首頁：`docs/index.md`
 - 全書總覽：`docs/book.md`
-- 章節試閱：`docs/chapters/ch01.md` 到 `docs/chapters/ch13.md`
+- 章節試閱：`docs/chapters/ch01.md` 到 `docs/chapters/ch06.md`
 - 作者簡介：`docs/author.md`
 - 試閱入口：`docs/preview.md`
-- 購買資訊：`docs/buy.md`
+- 購買資訊：Google Books 購書頁面（https://books.google.com.tw/books/about?id=yj3YEQAAQBAJ&redir_esc=y）
 - 參考文獻：`docs/references.md`
 - 出版提案：`docs/proposal-package.md`
 - 封面視覺：`docs/assets/images/cover-2026-cloud-security.svg`
@@ -72,7 +72,7 @@
 1. 從 `docs/index.md` 進入出版頁首頁。
 2. 在 `docs/preview.md` 進入正式試閱入口。
 3. 在 `docs/book.md` 查看整體定位與全書架構。
-4. 進入各章獨立頁面閱讀試閱內容。
+4. 進入第 1 章到第 6 章獨立頁面閱讀試閱內容。
 5. 在 `docs/references.md` 查看逐章正式參考文獻。
 6. 在 `docs/proposal-package.md` 取得作者模板、封面文案與試閱 opening。
 
@@ -106,7 +106,6 @@
 	├─ _config.yml
 	├─ author.md
 	├─ preview.md
-	├─ buy.md
 	├─ external-references-template.md
 	├─ index.md
 	├─ book.md
